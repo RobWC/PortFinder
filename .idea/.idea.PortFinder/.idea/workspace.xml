@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86481ce1-f8ac-46f6-a5b7-402373906aef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PortFinder/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PortFinder/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PortFinder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PortFinder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.PortFinder/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/PortFinder.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/bin/Debug/netcoreapp2.1/PortFinder.deps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/bin/Debug/netcoreapp2.1/PortFinder.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/bin/Debug/netcoreapp2.1/PortFinder.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/bin/Debug/netcoreapp2.1/PortFinder.runtimeconfig.dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/bin/Debug/netcoreapp2.1/PortFinder.runtimeconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/obj/Debug/netcoreapp2.1/PortFinder.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/obj/Debug/netcoreapp2.1/PortFinder.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/obj/Debug/netcoreapp2.1/PortFinder.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/obj/Debug/netcoreapp2.1/PortFinder.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/obj/Debug/netcoreapp2.1/PortFinder.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/obj/Debug/netcoreapp2.1/PortFinder.csprojAssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/obj/Debug/netcoreapp2.1/PortFinder.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/obj/Debug/netcoreapp2.1/PortFinder.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/obj/PortFinder.csproj.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/obj/PortFinder.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/obj/PortFinder.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PortFinder/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1340590965">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="1" />
+          <entry key="sln" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="1" />
+          <entry key="Solution File" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1525" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1525" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.js.language.service.starts" />
+      <usages-collector id="statistics.vcs.git.usages" />
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PortFinder/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="33" column="38" lean-forward="true" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+              <folding>
+                <marker date="1539153194483" expanded="true" signature="6:127" ph="..." />
+                <marker date="1539153194483" expanded="true" signature="149:3170" ph="{...}" />
+                <marker date="1539153194483" expanded="true" signature="169:3168" ph="{...}" />
+                <marker date="1539153194483" expanded="true" signature="215:3162" ph="{...}" />
+                <marker date="1539153194483" expanded="true" signature="469:1264" ph="{...}" />
+                <marker date="1539153194483" expanded="true" signature="844:956" ph="{...}" />
+                <marker date="1539153194483" expanded="true" signature="977:1052" ph="{...}" />
+                <marker date="1539153194483" expanded="true" signature="1187:1250" ph="{...}" />
+                <marker date="1539153194483" expanded="true" signature="1646:2475" ph="{...}" />
+                <marker date="1539153194483" expanded="true" signature="1701:1780" ph="{...}" />
+                <marker date="1539153194483" expanded="true" signature="1968:2085" ph="{...}" />
+                <marker date="1539153194483" expanded="true" signature="2173:2290" ph="{...}" />
+                <marker date="1539153194483" expanded="true" signature="2350:2429" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PortFinder/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PortFinder/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="650" />
+    <option name="y" value="27" />
+    <option name="width" value="1087" />
+    <option name="height" value="983" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="PortFinder" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="PortFinder" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PortFinder" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/PortFinder/bin/Debug/netcoreapp2.1/PortFinder.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PortFinder" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/PortFinder/PortFinder.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86481ce1-f8ac-46f6-a5b7-402373906aef" name="Default Changelist" comment="" />
+      <created>1539144803464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539144803464</updated>
+      <workItem from="1539144806512" duration="523000" />
+      <workItem from="1539145351765" duration="538000" />
+      <workItem from="1539145917308" duration="7420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8481000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="650" y="27" width="1087" height="983" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24399616" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32608697" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3293979" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32865497" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" weight="0.3293979" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.3293979" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32729468" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32949087" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PortFinder.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PortFinder/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="33" column="38" lean-forward="true" selection-start-line="33" selection-start-column="38" selection-end-line="33" selection-end-column="38" />
+          <folding>
+            <marker date="1539153194483" expanded="true" signature="6:127" ph="..." />
+            <marker date="1539153194483" expanded="true" signature="149:3170" ph="{...}" />
+            <marker date="1539153194483" expanded="true" signature="169:3168" ph="{...}" />
+            <marker date="1539153194483" expanded="true" signature="215:3162" ph="{...}" />
+            <marker date="1539153194483" expanded="true" signature="469:1264" ph="{...}" />
+            <marker date="1539153194483" expanded="true" signature="844:956" ph="{...}" />
+            <marker date="1539153194483" expanded="true" signature="977:1052" ph="{...}" />
+            <marker date="1539153194483" expanded="true" signature="1187:1250" ph="{...}" />
+            <marker date="1539153194483" expanded="true" signature="1646:2475" ph="{...}" />
+            <marker date="1539153194483" expanded="true" signature="1701:1780" ph="{...}" />
+            <marker date="1539153194483" expanded="true" signature="1968:2085" ph="{...}" />
+            <marker date="1539153194483" expanded="true" signature="2173:2290" ph="{...}" />
+            <marker date="1539153194483" expanded="true" signature="2350:2429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
